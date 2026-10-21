@@ -1,0 +1,4 @@
+interface:
+  display_name: "TOG CAD 论文写作"
+  short_description: "TOG writing patterns for CAD and geometric design"
+  default_prompt: "使用 $tog-cad-writing，依据我的方法、真实实验和草稿起草或修订英文论文，核对几何、优化、制造和输入输出主张。"
